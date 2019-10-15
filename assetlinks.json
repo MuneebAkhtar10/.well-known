@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.muneeb.resume",
+    "sha256_cert_fingerprints":
+    ["39:E7:DB:E0:BC:BE:AB:63:03:BC:D3:C6:9E:78:03:B1:34:85:36:1C:92:D1:F3:B5:65:86:31:7A:85:87:CA:28"]
+  }
+}]
